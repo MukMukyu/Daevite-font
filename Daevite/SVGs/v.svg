@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="120"
+   height="220"
+   viewBox="0 0 120 220"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="v.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2.6863636"
+     inkscape:cx="60.118443"
+     inkscape:cy="110"
+     inkscape:window-width="1536"
+     inkscape:window-height="793"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1" />
+  <g
+     id="layer18"
+     style="display:inline">
+    <path
+       id="path115"
+       style="baseline-shift:baseline;display:inline;overflow:visible;opacity:1;vector-effect:none;paint-order:stroke markers fill;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+       d="M 7.5722656,15.628906 5.6289062,22.427734 54.279297,110 5.6289062,197.57227 7.5722656,204.37109 14.371094,202.42773 60,120.29492 l 45.62891,82.13281 6.79882,1.94336 1.94336,-6.79882 L 65.720703,110 114.37109,22.427734 112.42773,15.628906 105.62891,17.572266 60,99.705078 14.371094,17.572266 Z" />
+  </g>
+</svg>
